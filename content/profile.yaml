@@ -11,8 +11,9 @@
   focus: Full-Stack NextJS
   focus_url: https://nextjs.org
   about: |
-    Creative developer located in Tirana , Albania. I have a passion for coding , more specifically i love ReactJS. I started my developmnet journey by learning frontend first , but now i moving forward
-     to backend with NodeJS, GraphQL and Apollo. Have a look i my portfolio and let em know what you think.
+    Creative developer located in Tirana, Albania. I have a passion for coding , 
+    more specifically i love ReactJS. I started my development journey by learning frontend first , 
+    but now i am moving forward to backend with NodeJS, GraphQL and Apollo.
   skills:
     - HTML / CSS/JS
     - ReactJS/NextJS
@@ -20,7 +21,7 @@
   tools:
     - React
     - VSCode
-    - React
+    - WebStorm
   budget:
     currency: $
     min: 5

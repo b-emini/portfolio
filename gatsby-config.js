@@ -1,8 +1,9 @@
+
 module.exports = {
   siteMetadata: {
-    description: "Personal page of John Doe",
+    description: "Personal page of Brajan Emini",
     locale: "en",
-    title: "John Doe",
+    title: "Brajan Emini",
   },
   plugins: [
     {
@@ -10,8 +11,8 @@ module.exports = {
       options: {
         basePath: "/",
         contentPath: "content/",
-        showThemeLogo: true,
-        theme: "classic",
+        showThemeLogo: false,
+        theme: "dark-blue",
       },
     },
   ],

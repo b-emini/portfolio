@@ -1,18 +1,21 @@
 {
-  "private": true,
-  "name": "site",
+  "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Brajan Emini <e.brajan.98@gmail.com>",
+  "repository": "https://github.com/b-emini/portfolio.git",
+  "author": "b-emini <e.brajan.98@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "^1.0.14",
+    "gatsby": "^2.27.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
   "scripts": {
     "build": "gatsby build",
-    "clean": "gatsby clean",
-    "develop": "gatsby develop"
-  },
-  "dependencies": {
-    "@wkocjan/gatsby-theme-intro": "*",
-    "gatsby": "^2.20.12",
-    "react-dom": "^16.12.0"
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
   }
 }
