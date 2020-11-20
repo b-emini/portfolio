@@ -1,0 +1,28 @@
+- profile:
+  initials: BE
+  name: Brajan Emini
+  email: f/mqkglowa
+  profession: Frontend Developer
+  image: images/profile.jpg
+  location: Tirana, Albania
+  relocation: false
+  company: Optika One
+  for_hire: false
+  focus: Full-Stack NextJS
+  focus_url: https://nextjs.org
+  about: |
+    Creative developer located in Tirana , Albania. I have a passion for coding , more specifically i love ReactJS. I started my developmnet journey by learning frontend first , but now i moving forward
+     to backend with NodeJS, GraphQL and Apollo. Have a look i my portfolio and let em know what you think.
+  skills:
+    - HTML / CSS/JS
+    - ReactJS/NextJS
+    - GraphQL/ NodeJS
+  tools:
+    - React
+    - VSCode
+    - React
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10

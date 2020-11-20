@@ -1,0 +1,35 @@
+- name: Github Repos
+  url: https://github.com/b-emini?tab=repositories
+  description: This is my personal github. Feel free to have a look on my repositories.
+  status: always in progress
+  tags:
+    - JavaScript
+    - Gatsby
+    - React
+    - HTML
+    - CSS
+    - JS
+  icon: github
+  image: images/project.jpg
+
+- name: Optika One
+  url: https://www.optikaone.com/
+  description: Optika one is the leader company in optical glasses and sunglasses in Albania & Kosovo.
+  status: live
+  tags:
+    - Wordpress
+    - Woocommerce
+  icon: website
+  image: images/optikaone-project.JPG
+
+- name: SoundTracktor (Contributor)
+  url: https://www.soundtracktor.com/
+  description: Soundtracktor is a free AI-powered platform that connects composers to the right opportunities and helps them monetize their music.
+  status: live
+  tags:
+    - ReactJS
+    - NExtJS
+    - GraphQL
+    - Ruby on Rails
+  icon: website
+  image: images/soundtracktor-project.JPG

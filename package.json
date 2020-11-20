@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brajan Emini <e.brajan.98@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "@wkocjan/gatsby-theme-intro": "*",
+    "gatsby": "^2.20.12",
+    "react-dom": "^16.12.0"
+  }
+}
