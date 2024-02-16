@@ -6,14 +6,15 @@
   image: images/profile.jpg
   location: Tirana, Albania
   relocation: false
-  company: Optika One
-  for_hire: false
+  company: Choosing the right one :)
+  for_hire: true
   focus: Full-Stack NextJS
   focus_url: https://nextjs.org
   about: |
-    Creative developer located in Tirana, Albania. I have a passion for coding , 
-    more specifically i love ReactJS. I started my development journey by learning frontend first , 
-    but now i am moving forward to backend with NodeJS, GraphQL and Apollo.
+     Hello! I'm Brajan EMini, a full-stack developer with a knack for creativity, currently residing in Tirana, Albania. 
+     I have a deep-rooted passion for developing seamless and engaging user experiences, particularly with frontend technologies. 
+     My love for Next.js is evident in the projects I undertake, as it allows me to craft applications that are both visually appealing and highly functional.
+     I'm always eager to explore the latest advancements in web development and bring a fresh perspective to my work.
   skills:
     - HTML / CSS/JS
     - ReactJS/NextJS
@@ -22,6 +23,8 @@
     - React
     - VSCode
     - WebStorm
+    - Git/Gitlab/Github
+    - JIRA/ Trello
   budget:
     currency: $
     min: 5
